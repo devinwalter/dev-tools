@@ -1,0 +1,59 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.folders.theme": "specific",
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.autoClosingQuotes": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.rulers": [80],
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.exclude": {
+    ".DS_Store": true
+  },
+  "gitlens.advanced.messages": {
+    "suppressCommitNotFoundWarning": true,
+    "suppressShowKeyBindingsNotice": true,
+    "suppressWelcomeNotice": true
+  },
+  "gitlens.keymap": "alternate",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.wrapTabs": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSave": "off",
+  "techDebtTracker.inlineDebtRatings.enable": true,
+  "techDebtTracker.debtRatingsTreeView.enable": true,
+  "java.project.importHint": false,
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "cSpell.userWords": [
+    "Asurion",
+    "Formik",
+    "Initiatior",
+    "MIXPANEL",
+    "Websockets",
+    "apos",
+    "contentful",
+    "datepicker",
+    "mxclient",
+    "soluto",
+    "swipeable",
+    "trailhead",
+    "tweek"
+  ],
+  "window.zoomLevel": 3
+}
